@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+}
+nav{
+    background-color: aquamarine;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 80%;
+    margin: 20px auto;
+    padding: 10px 20px;
+}
+button{
+    text-align: end;
+    justify-content: end;
+    align-items: center;
+    margin: auto;
+
+}
