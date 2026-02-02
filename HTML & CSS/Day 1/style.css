@@ -1,4 +1,12 @@
 body{
-    background-color: black;
-    color: #000;
+    background-color: rgb(143, 133, 133);
+
+}
+h1{
+    text-align: start;
+    background-color: brown;
+    width: 15%;
+    justify-content: space-between;
+    display: flexbox;
+    
 }
