@@ -1,6 +1,17 @@
-body{
-    background-color: aqua;
+/* 
+.exp-table {
+   border-collapse: collapse;
+  width: 70%;
+  margin-top: 10px;
 }
-footer {
+
+.exp-table th,
+.exp-table td {
+  border: 1px solid black;  
+  padding: 8px;
   text-align: center;
 }
+
+.exp-table th {
+ background-color: #f2f2f2;
+} */
